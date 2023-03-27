@@ -2,7 +2,7 @@
   "expo": {
     "scheme": "acme",
     "web": {
-      "bundler": "metro"
+      "bundler": "webpack"
     },
     "name": "webpack-min-reproduce",
     "slug": "webpack-min-reproduce"
